@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/event-registration-portal/static/css/main.a6b8fb4f.css",
+    "main.js": "/event-registration-portal/static/js/main.d7215640.js",
+    "static/js/488.11a664bb.chunk.js": "/event-registration-portal/static/js/488.11a664bb.chunk.js",
+    "index.html": "/event-registration-portal/index.html",
+    "main.a6b8fb4f.css.map": "/event-registration-portal/static/css/main.a6b8fb4f.css.map",
+    "main.d7215640.js.map": "/event-registration-portal/static/js/main.d7215640.js.map",
+    "488.11a664bb.chunk.js.map": "/event-registration-portal/static/js/488.11a664bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6b8fb4f.css",
+    "static/js/main.d7215640.js"
+  ]
+}
